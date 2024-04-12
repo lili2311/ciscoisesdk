@@ -20,7 +20,7 @@ chardet==4.0.0
 decorator==5.0.7
 docutils==0.16
 flake8==3.9.1
-idna==2.10
+idna==3.7
 imagesize==1.2.0
 ipython-genutils==0.2.0
 ipython==7.23.1
