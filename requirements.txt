@@ -17,5 +17,5 @@ future==0.18.2
 idna==2.10
 requests-toolbelt==0.9.1
 requests==2.25.1
-urllib3==1.26.4
+urllib3==1.26.19
 xmltodict==0.12.0
